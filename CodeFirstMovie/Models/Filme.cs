@@ -11,6 +11,7 @@
         public int Duracao { get; set; }
 
         public int DiretorId { get; set; }
+        public int Nota { get; set; }
 
         public Diretor? Diretor { get; set; }
 
