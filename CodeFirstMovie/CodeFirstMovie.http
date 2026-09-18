@@ -1,0 +1,6 @@
+@CodeFirstMovie_HostAddress = http://localhost:5241
+
+GET {{CodeFirstMovie_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
